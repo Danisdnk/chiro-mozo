@@ -21,7 +21,7 @@ const Home = () => {
         shadowOpacity={1}
         shadowRadius={0.9}
         elevation={10}
-        title={'Retiro Exitoso'}
+        title={'Retiro Exitoso test'}
         btnText={'Volve al inicio'}
        />
 
