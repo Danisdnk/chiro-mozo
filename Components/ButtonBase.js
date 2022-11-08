@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
         resizeMode: 'cover',
         flexDirection: 'row',
         marginStart: 0,
-        top: -30,
+        top: -300,
 
     },
 
