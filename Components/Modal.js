@@ -99,7 +99,7 @@ const styles = StyleSheet.create({
         position: 'relative',
         resizeMode: 'cover',
         flexDirection: 'column',
-        marginStart: 0,
+        marginStart: 00,
 
     },
 });
